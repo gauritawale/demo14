@@ -1,0 +1,57 @@
+.div1{
+	height:900%;
+	width:12.5%;
+	background-color:pink;
+}
+.div2{
+	height:100px;
+	width:130px;
+	background-color: red;
+	margin-top: 50px;margin-left: 12px;
+	border-radius: 20px;color:white;
+	text-align: center;
+	border: 2px solid black;
+}
+.div2:hover{
+	background-color: black;
+	color:blue;
+	cursor: pointer;
+}
+
+
+.marquee{
+	height: 40px;
+	width: 87.4%;
+	background-color: black;
+	color: white;
+	text-align: center;
+	float: left;
+	margin-left: 155px;
+}
+
+.box{
+
+	height: 50px;
+	width: 100px;
+	background-color: white;
+	border-radius: 30px;
+	color:black;
+	margin-top: 5px;
+
+}
+
+.marquee1{
+	height: 200px;
+	width: 100%;
+	background-color: gray;
+	margin-top: 900px;
+}
+
+.images{
+	height: 120px;
+	width: 87%;
+	background-color: red;
+	position: absolute;
+	top:194%;
+	margin-left: 155px;
+}
